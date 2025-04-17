@@ -23,6 +23,6 @@ Bitwise is a character conversion application developed using C# Windows Forms. 
 
 ## 📁 Installation & Usage
 
-1. Clone this repository:
+1. Clone this repository: https://github.com/cyber-mel90/BitWise
 2. Open the solution in Visual Studio
 3. Build and run the application
